@@ -1,5 +1,3 @@
-## Hi there 👋# Personal Information
-
 ## Introduction
 
 Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's degree in Applied Mathematics. I am proficient in Python programming and frequently use popular libraries such as Pandas, Matplotlib, Numpy, and Sklearn.
@@ -16,6 +14,8 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
   - **Matplotlib**: For creating static, animated, and interactive visualizations.
   - **Numpy**: For working with arrays and performing mathematical operations.
   - **Sklearn**: For machine learning and statistical classification.
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=butuzovzeleboba)](https://git.io/streak-stats)
 
 <!--
 **butuzovzeleboba/butuzovzeleboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
