@@ -20,8 +20,7 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
 
 ---
 
-### 📈 GitHub Activity Graph:
-![butuzovzeleboba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=butuzovzeleboba)
+
 
 ---
 
