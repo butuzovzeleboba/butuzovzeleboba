@@ -19,7 +19,7 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
   
   
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?butuzovzeleboba
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?butuzovzeleboba)
 
 <!--
 **butuzovzeleboba/butuzovzeleboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
