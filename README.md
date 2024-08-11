@@ -16,6 +16,9 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
   - **Sklearn**: For machine learning and statistical classification.
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=butuzovzeleboba)](https://git.io/streak-stats)
+  markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
 
 <!--
 **butuzovzeleboba/butuzovzeleboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
