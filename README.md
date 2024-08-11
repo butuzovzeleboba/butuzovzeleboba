@@ -17,7 +17,14 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=butuzovzeleboba)](https://git.io/streak-stats)
   
-
+<div id="badges">
+  <a href="https://vk.com/pypcbutuzov">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVtZGU0ZHhzaWZxejVxZHM0bmg2b3JmZWNleDh0cnBrcGRyNG1oMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4fGNh8cEOdGWa2hA4z/giphy.gif" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/ArtemOkolelovV">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA1ZWV5bWxlemQ5MXM0cHh4ajM2cG45dm5idjZrazJvOHhpNDJlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" alt="Telegram Badge"/>
+  </a>
+</div>
 ---
 
 
