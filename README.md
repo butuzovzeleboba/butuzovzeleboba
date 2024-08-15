@@ -27,7 +27,7 @@ Hello everyone, my name is Artem Okolelov. I am a Data Analyst with a Master's d
   </a>
 </div>
 <br> <!-- Перенос строки для размещения счетчика ниже -->
-<div id="github-counter" style="margin-left: 20px;>
+<div id="github-counter" style="margin-left: 50px;>
   <a href="https://github.com/butuzovzeleboba">
     <img src="https://komarev.com/ghpvc/?username=butuzovzeleboba&style=flat-square&color=blue" alt="GitHub Views" width="100" height="20"/>
   </a>
